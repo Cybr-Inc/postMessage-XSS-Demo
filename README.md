@@ -1,2 +1,2 @@
 # postMessage XSS Demo
- Cross-Site Scripting (XSS): The 2021 Guide from Cybr.com demo of postMessage XSS
+ Demo of postMessage XSS. This is a lab from the Cross-Site Scripting (XSS): The 2021 Guide from Cybr.com
